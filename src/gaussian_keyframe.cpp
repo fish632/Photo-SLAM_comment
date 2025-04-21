@@ -19,7 +19,7 @@
 #include "include/gaussian_keyframe.h"
 
 void GaussianKeyframe::setPose(
-    const double qw,
+    const double qw,  //广告被
     const double qx,
     const double qy,
     const double qz,
